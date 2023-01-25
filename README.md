@@ -23,6 +23,7 @@ Unpaid reviews:
 ![unpaid_info.PNG](/resources/unpaid_info.PNG)
 
 Paid reviews:
+
 ![paid_info.PNG](/resources/paid_info.PNG)
 
 
